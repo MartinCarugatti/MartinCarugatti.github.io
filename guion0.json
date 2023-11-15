@@ -1,5 +1,5 @@
-{   "audio" : "audios/audio2.mp3",
-    "modelo":"modelos/modelo0.glb",
+{   "audio" : "audio2.mp3",
+    "modelo":"modelo0.glb",
     "fondo":"rgb(0,0,0)",
     "data" :
         [
